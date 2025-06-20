@@ -29,7 +29,7 @@ aqui podras un programa en la que se le preguntara al usuario su nombre y su eda
 1. Clonar repositorio
 
 ``` 
-https://github.com/Almeiram/sistema_interactivojs.git
+https://github.com/Almeiram/aprendiendo_js.git
 
 ``` 
 ## Finalidad
